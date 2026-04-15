@@ -4,7 +4,7 @@ A modern, responsive blog showcasing articles on AI, Web Development, Mobile Dev
 
 ## 🚀 Live Demo
 
-Visit the blog at: [Your Live URL will be here]
+Visit the blog at: [https://akaash-45.github.io/Blog/](https://akaash-45.github.io/Blog/)
 
 ## 📝 Features
 
